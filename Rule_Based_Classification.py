@@ -10,7 +10,7 @@ df.isnull().sum()
 df.shape
 df.info()
 
-# Data Analysis
+# Exploratory Data Analysis
 
 df["SOURCE"].nunique()
 df["SOURCE"].value_counts()
